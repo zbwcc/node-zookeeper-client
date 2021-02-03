@@ -1,8 +1,8 @@
 {
-  "name": "node-zookeeper-client",
-  "version": "1.1.0",
+  "name": "node-zookeeper-client_temp",
+  "version": "1.0.0",
   "description": "A pure Javascript ZooKeeper client for Node.js.",
-  "author": "Alex Guan <alex.guan@gmail.com>",
+  "author": "zhu <zbwlan@live.com>",
   "license": "MIT",
   "main": "index.js",
   "keywords": [
